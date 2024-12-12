@@ -1,0 +1,18 @@
+# Imagem Docker
+image:
+  file: .gitpod.Dockerfile
+
+# Portas e Ações
+ports:
+  - name: localhost webApp
+    port: 4200
+    onOpen: open-browser
+    visibility: public
+  - name: localhost api
+    port: 3000
+    onOpen: open-preview
+    visibility: public
+  - name: localhost api
+    port: 8080
+    onOpen: open-preview
+    visibility: public
