@@ -1,13 +1,16 @@
 # Esquenta Essencial - Formação DEV
 
+Bem-vindo ao repositório oficial da série de vídeos **Esquenta Essencial**! Esta série tem como objetivo abordar as 10 principais tecnologias chave para o desenvolvimento de uma aplicação fullstack moderna utilizando tecnologias da Web. Cada pasta neste repositório contém os códigos desenvolvidos durante os vídeos.
+
+<br>
+<br>
+
 ## Abrir IDE On-line
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/workspaces)
 
 <br>
 <br>
-
-Bem-vindo ao repositório oficial da série de vídeos **Esquenta Essencial**! Esta série tem como objetivo abordar as 10 principais tecnologias chave para o desenvolvimento de uma aplicação fullstack moderna utilizando tecnologias da Web. Cada pasta neste repositório contém os códigos desenvolvidos durante os vídeos.
 
 ## Tecnologias abordadas na série:
 
